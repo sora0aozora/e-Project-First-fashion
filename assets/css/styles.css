@@ -2,67 +2,59 @@
     /*#region Century Gothic Font*/
         @font-face {
             font-family: Century Gothic;
-            src: url("/An/assets/fonts/Century Gothic/GOTHIC.TTF"), url("/An/assets/fonts/Century Gothic/GOTHICB.TTF"), url("/An/assets/fonts/Century Gothic/GOTHICBI.TTF"), url('/An/assets/fonts/Century Gothic/GOTHICBI.TTF');
+            src: url("https://bit.ly/2ZrtzyP"), url("https://bit.ly/2SpieOu"), url("https://bit.ly/2sgWU2R"), url('https://bit.ly/2SurjVU');
         }
     /*#endregion Century Gothic Font*/
     /*#region Cambria Font*/
         @font-face {
-            font-family: Cambria;
-            src: url("/An/assets/fonts/Cambria/cambria.ttc");
-        }
-        @font-face {
             font-family: "Cambria";
-            src: url("/An/assets/fonts/Cambria/cambria.ttc");
+            src: url("https://bit.ly/35W3Qkt");
         }
         @font-face {
             font-family: "Cambria Bold";
-            src: url("/An/assets/fonts/Cambria/cambriab.ttf");
+            src: url("https://bit.ly/2Qfk8OS");
         }
         @font-face {
             font-family: "Cambria Italic";
-            src: url("/An/assets/fonts/Cambria/cambriai.ttf");
+            src: url("https://bit.ly/35W43nL");
         }
         @font-face {
             font-family: "Cambria Z";
-            src: url("/An/assets/fonts/Cambria/cambriaz.ttf");
+            src: url("https://bit.ly/35UcqQP");
         }
     /*#endregion Cambria Font*/
     /*#region Apercu Font*/
         @font-face {
-            font-family: Apercu;
-            src: url("/An/assets/fonts/Apercu/Apercu Bold.otf");
-        }
-        @font-face {
-            font-family: "Apercu";
-            src: url("/An/assets/fonts/Apercu/Apercu Bold.otf");
+            font-family: "Apercu Bold";
+            src: url("https://bit.ly/35VJnw6");
         }
         @font-face {
             font-family: "Apercu Bold Italic";
-            src: url("/An/assets/fonts/Apercu/Apercu Bold Italic.otf");
+            src: url("https://bit.ly/2s8rPOZ");
         }
         @font-face {
             font-family: "Apercu Italic";
-            src: url("/An/assets/fonts/Apercu/Apercu Italic.otf");
+            src: url("https://bit.ly/2MqDcbY");
         }
         @font-face {
             font-family: "Apercu Light Italic";
-            src: url("/An/assets/fonts/Apercu/Apercu Light Italic.otf");
+            src: url("https://bit.ly/2sXoguQ");
         }
          @font-face {
              font-family: "Apercu Medium";
-             src: url("/An/assets/fonts/Apercu/Apercu Medium.otf");
+             src: url("https://bit.ly/399SMCp");
          }
          @font-face {
              font-family: "Apercu Medium Italic";
-             src: url("/An/assets/fonts/Apercu/Apercu Medium Italic.otf");
+             src: url("https://bit.ly/39cOLNp");
          }
          @font-face {
              font-family: "Apercu Regular";
-             src: url("/An/assets/fonts/Apercu/Apercu Regular.otf");
+             src: url("https://bit.ly/2rnYcZm");
          }
          @font-face {
              font-family: "Apercu Light";
-             src: url("/An/assets/fonts/Apercu/Apercu Light.otf");
+             src: url("https://bit.ly/374T2Ri");
          }
 /*#endregion Apercu Font*/
 /*#endregion Fonts*/
@@ -335,7 +327,6 @@ border-radius: .5rem;
     position: static;
     font-family: "Sitka Display";
     font-weight: bold;
-    font-style: 15px;
     font-size: 15px;
     padding-left: 20px;
     line-height: 25px;
